@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400,600&display=swap');
+
+
+.WeatherImage h2{
+    position: absolute;
+    height: 21.38rem;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.06rem;
+    line-height: 1.31rem;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    margin-left: 8.13rem;
+
+}
+
+span{
+    
+    stroke-width: 0.06rem;
+    line-height: 1.31rem;
+    letter-spacing: -0.06em;
+    padding-left: 0.81rem;
+}
+.icon {
+    margin-left: -3px;
+    padding: 10px;
+    color: #F0D98B;
+}
+
+.Weather_Statement{
+    margin-top: -1rem;
+}
+
+img{
+    margin-left: -4px;
+    width: 37px;
+}

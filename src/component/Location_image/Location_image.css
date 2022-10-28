@@ -1,0 +1,18 @@
+.Location_image{
+
+    box-sizing: border-box;
+
+}
+.Location_image img{
+/* 
+    border-radius: 46px 46px 0px 0px;
+    margin-top: -288px;
+    margin-bottom: 96px;
+    height: 453px;
+    width: 331px; */
+
+    width: 30vw;
+    min-width: 400px;
+    margin: 0 auto;
+    
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400,600&display=swap');
+
+
+.Search_bar input{
+    background-color: transparent;
+    width: 231px;
+    height: 30px;
+    max-width: 97%;
+    border: none;
+    font-size:medium;
+    color: white;
+}::placeholder{
+    padding:1rem;
+    
+    
+}
+
+.Search_bar{
+    padding: 2rem;
+    border-bottom: 1rem;
+}
+
+.Search_bar input:focus{
+    outline: none;
+}
+
+.Search_bar input:hover{
+    border-bottom:solid white 1px;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400&display=swap');
+
+.temp{
+    font-size: 7.19rem;
+    height: 10.75rem;
+    width: 6.13rem;
+    letter-spacing: 0.06em;
+    font-family:'Karma';
+    font-weight: 300;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+    position: absolute;
+    font-style: normal;
+
+
+    line-height: 163px;
+    display: flex;
+    align-items: center;
+}
+
+.Degree{
+    width: 18px;
+    height: 72px;
+    
+    font-family: 'Kufam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 72px;
+    padding-left: 100px;
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.01em;
+    
+    color: #FFFFFF;
+    position: absolute;
+
+}
+
+
+

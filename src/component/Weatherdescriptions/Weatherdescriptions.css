@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400,600&display=swap');
+
+.Weather_description{
+
+    display:flex;
+    margin-top: 13.13rem;
+    
+    margin-right: 30px;
+    font-family: 'Karam';
+    font-style: normal; 
+    
+    position: absolute;
+    
+
+}
+
+.Weather_Perameters{ 
+
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+   
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Weather_Perameters h1{
+
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 18px;
+    font-style: normal;
+
+}
+
+.Weather_Perameters span{
+    display: flex;
+    text-align: center;
+    padding-bottom: 1rem;
+    color: #F0D98B;
+}
